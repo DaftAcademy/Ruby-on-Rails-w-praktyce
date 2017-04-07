@@ -18,6 +18,8 @@ W tym celu powinniśmy wykonać kilka kroków:
    - `Birthday` - zawiera dodatkowo imię i nazwisko jubilata
    - `Reminder` - posiada dodatkowy opis
    - `Task` - przechowuje informację o ukończeniu zadania natomiast nie posiada konkretnej daty
+   
+   Tip: `super` wywołuje metodę nadklasy
 4. Stwórz przykładowe wydarzenie każdego typu i wyświetl je w aplikacji, uwzględniając różnice między nimi.
 5. Teraz możemy spróbować zgrupować nasze wydarzenia w jakiś kalendarz. Na nasze potrzeby wystarczy jeśli będziemy je przechowywać w tablicy.
 
