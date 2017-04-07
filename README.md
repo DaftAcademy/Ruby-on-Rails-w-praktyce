@@ -6,6 +6,10 @@ Zadania będą publikowane w tym repozytorium w folderze `zadania`. Każde z nic
 
 Dla żądnych wyzwań przewidzieliśmy zadania "z gwiazdką", które będą bardziej skomplikowane lub będą wymagać researchu, czy wiedzy spoza zajęć.
 
+Wykonujcie zadania na swoim workspace. Jak skończycie i będziecie chcieli code review, dajcie znać mailowo. Repozytorium `daftcode/shorty` będzie uaktualniane co tydzień - będziecie w stanie podejrzeć proponowane rozwiązanie.
+
+Powodzenia!
+
 ## Platforma Cloud9
 
 Każdy z Was dostał na maila którym wysyłaliście zgłoszenie linka z zaproszeniem do zespołu `rorworkshops`
